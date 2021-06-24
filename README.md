@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Oakley.</h1>
-<h3 align="center">A passionate frontend developer from Taipei, Taiwan</h3>
+<h3 align="center">A passionate Front-End developer from Taipei, Taiwan</h3>
 
 <div>I build website with React and Vue.</div>
 
