@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Oakley.</h1>
-<h2 align="center">I build website with react and vue.</h2>
 <h3 align="center">A passionate frontend developer from Taipei, Taiwan</h3>
+
+<div>I build website with React and Vue.</div>
 
 - 💬 **Chinese, English**
 
