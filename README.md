@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Oakley I build website with react and vue.</h1>
+<h1 align="center">Hi 👋, I'm Oakley.</h1>
+<h2 align="center">I build website with react and vue.</h2>
 <h3 align="center">A passionate frontend developer from Taipei, Taiwan</h3>
 
 - 💬 **Chinese, English**
